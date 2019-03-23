@@ -1,6 +1,6 @@
 {
   "name": "rexxars",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A personal card for Espen Hovlandsdal (@rexxars)",
   "main": "lib/card.js",
   "typings": "lib/card.d.ts",
